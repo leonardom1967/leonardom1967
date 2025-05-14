@@ -1,5 +1,5 @@
 ### Hi there. I be Leonardo Muñoz 👋
-Hello, My name is Leonardo, 55 years with 26 years of experience. I love linux, but I am interested in Arch, Debian and Ubuntu Linux, I'm a web designer, I love the linux in all thuings.
+Hello, My name is Leonardo, 59 years with 26 years of experience. I love linux, but I am interested in Arch, Debian and Ubuntu Linux, I'm a web designer, I love the linux in all thuings.
 
 ### My preferred tecnologies are: 👋
 - Divi Builder
